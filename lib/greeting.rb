@@ -1,4 +1,4 @@
 
 def greeting(name)
-  "Hello #{name} it's nice to meet you."
+  "Hello #{name}. it's nice to meet you."
 end
